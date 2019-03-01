@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using myApp.BranchAndFor;
 using myApp.String;
 using myApp.List;
+using myApp.Class;
 
 namespace myApp
 {
@@ -24,7 +25,8 @@ namespace myApp
 //            String.ExplodeStr.AequilatusStr();
 //              List.FirstList.TestList();
 //              List.FirstList.fibonacci();
-              List.FirstList.fibonacci2();
+//              List.FirstList.fibonacci2();
+            Class.FirstClass.TestAccount();
         }
 
         static void NumberTest()
