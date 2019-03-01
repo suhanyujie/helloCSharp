@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using myApp.BranchAndFor;
+using myApp.String;
+using myApp.List;
 
 namespace myApp
 {
@@ -12,7 +16,15 @@ namespace myApp
 
         static void Main()
         {
-            maxNum();
+            //BranchAndFor.BranchAndFor.TestIf();
+//            BranchAndFor.BranchAndFor.ExploreWhile();
+//            BranchAndFor.BranchAndFor.ExploreFor();
+//            String.ExplodeStr.TestStr();
+//            String.ExplodeStr.ExplodeToString();
+//            String.ExplodeStr.AequilatusStr();
+//              List.FirstList.TestList();
+//              List.FirstList.fibonacci();
+              List.FirstList.fibonacci2();
         }
 
         static void NumberTest()
